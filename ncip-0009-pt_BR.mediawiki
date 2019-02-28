@@ -5,7 +5,7 @@
   Author: Frederico Villani <frederico.villani@niobiocash.com>
           Helder Garcia <helder.garcia@gmail.com>
   Status: Draft
-  Type: Standarts
+  Type: Standards
   Created: 2018-03-12
   License: PD
 </pre>
