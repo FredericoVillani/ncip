@@ -21,7 +21,7 @@ Esse NCIP informativo, não altera a divisibilidade da moeda que se mantém em 1
 1. Não é vantajoso exibir grande quantidade de casas decimais levando em consideração o supply da moeda e preço atual de um ponto de vista utilitário.
 2. Facilitar a utilização para usuários leigos, apresentando a criptomoeda em formato semelhante ao 'fiat money', com apenas duas casas decimais;
 
-=Implementação=
+==Implementação==
 Alterar as casas decimais visívieis nas carteias desktop e mobile.
 
 ==Copyright==
